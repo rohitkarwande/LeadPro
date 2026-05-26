@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen bg-slate-950 text-slate-200 flex flex-col items-center justify-center p-8">
       <div className="max-w-2xl text-center">
         <h1 className="text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 mb-6">
-          Prowider Mini
+          LeadPro
         </h1>
         <p className="text-lg text-slate-400 mb-12">
           An advanced, concurrency-safe lead distribution system with real-time dashboard updates and strict fair-allocation algorithms.
